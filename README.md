@@ -1,7 +1,7 @@
-# APUNTADORES Y PASO DE PAR®¢METROS POR VALOR Y POR REFERENCIA
+# APUNTADORES Y PASO DE PAR√ÅMETROS POR VALOR Y POR REFERENCIA
 ## Problemario 5 - Programacion 1
 
- 1.  En uno de los cap®™tulos de la serie °∞The Big Bang Theory°± se present®Æ una versi®Æn extendida del juego °∞Piedra, Papel y Tijeras°±. En esta nueva versi®Æn se consideran 5 elementos: Rock, Paper, Scissors, Lizard y Spock; los cuales est®¢n relacionados de la siguiente forma:
+ 1.  En uno de los cap√≠tulos de la serie ‚ÄúThe Big Bang Theory‚Äù se present√≥ una versi√≥n extendida del juego ‚ÄúPiedra, Papel y Tijeras‚Äù. En esta nueva versi√≥n se consideran 5 elementos: Rock, Paper, Scissors, Lizard y Spock; los cuales est√°n relacionados de la siguiente forma:
  
 <table align="center">
 <thead>
@@ -55,24 +55,24 @@
 
 Escriba un programa que permita a un usuario jugar contra la computadora, tomando en cuenta las siguientes consideraciones: 
 
- - La elecci®Æn del elemento de la computadora se debe generar aleatoriamente, mientras que el usuario debe proporcionar el elemento de su elecci®Æn.
-	- Nota: Muestre un men®≤ al usuario para ayudarlo a elegir entre los cinco elementos.
+ - La elecci√≥n del elemento de la computadora se debe generar aleatoriamente, mientras que el usuario debe proporcionar el elemento de su elecci√≥n.
+	- Nota: Muestre un men√∫ al usuario para ayudarlo a elegir entre los cinco elementos.
  - El juego debe terminar cuando uno de los dos jugadores, acumula 3 puntos.
- - Por cada iteraci®Æn el juego debe mostrar:
-	- La relaci®Æn entre los elementos.
+ - Por cada iteraci√≥n el juego debe mostrar:
+	- La relaci√≥n entre los elementos.
 	- La frase: Punto para [Computadora/Usuario].
 	- El puntaje actual. 
  - Al final del juego se imprime quien fue el ganador, si la computadora o el usuario.
- - Utilice funci®Æn que reciba dos elementos elegidos e imprima la relaci®Æn entre ellos.
+ - Utilice funci√≥n que reciba dos elementos elegidos e imprima la relaci√≥n entre ellos.
 
- 3. Escriba un programa que lea una fecha (d®™a/mes/a?o) e invoque a una funci®Æn que reciba los tres datos como par®¢metros y los modifique para que estos almacenen la fecha siguiente. Esta funci®Æn debe apoyarse en otra que compruebe si la fecha pasada por par®¢metro es correcta o no. Imprima en el main la nueva fecha. Considere a?os bisiestos.
+ 3. Escriba un programa que lea una fecha (d√≠a/mes/a?o) e invoque a una funci√≥n que reciba los tres datos como par√°metros y los modifique para que estos almacenen la fecha siguiente. Esta funci√≥n debe apoyarse en otra que compruebe si la fecha pasada por par√°metro es correcta o no. Imprima en el main la nueva fecha. Considere a?os bisiestos.
  
- 4. Escribir un programa que simule el procedimiento de una maquita cafetera. El programa, en un inicio debe solicitar la capacidad m®¢xima de la cafetera (mililitros) y a continuaci®Æn mostrar el siguiente men®≤:
-	-  Llenar cafetera: Para llenar la cafetera implemente una funci®Æn que, a partir de la capacidad actual de la cafetera y la capacidad m®¢xima, calcule la cantidad de mililitros faltantes. Una vez calculado, debe imprimir cuantos mililitros se agregaron y modificar la variable que controla la capacidad actual.
-	- Vaciar cafetera: La funci®Æn deber®¢ establecer la capacidad actual de la cafetera en 0.
-	- Servir vaso: La funci®Æn deber®¢ mostrar la impresi®Æn °∞Se ha servido un vaso de 150 ml°± y modificar la variable que controla la capacidad actual. Si no hay suficiente caf®¶ para servir un vaso, el m®¶todo debe informar que no fue posible atender la solicitud.
+ 4. Escribir un programa que simule el procedimiento de una maquita cafetera. El programa, en un inicio debe solicitar la capacidad m√°xima de la cafetera (mililitros) y a continuaci√≥n mostrar el siguiente men√∫:
+	-  Llenar cafetera: Para llenar la cafetera implemente una funci√≥n que, a partir de la capacidad actual de la cafetera y la capacidad m√°xima, calcule la cantidad de mililitros faltantes. Una vez calculado, debe imprimir cuantos mililitros se agregaron y modificar la variable que controla la capacidad actual.
+	- Vaciar cafetera: La funci√≥n deber√° establecer la capacidad actual de la cafetera en 0.
+	- Servir vaso: La funci√≥n deber√° mostrar la impresi√≥n ‚ÄúSe ha servido un vaso de 150 ml‚Äù y modificar la variable que controla la capacidad actual. Si no hay suficiente caf√© para servir un vaso, el m√©todo debe informar que no fue posible atender la solicitud.
 	- Salir
 	Notas:
-	 - Cuando inicia el programa, la capacidad actual de la cafetera es de 0 mililitros, las variables que controlan la capacidad actual y m®¢xima deben declararse dentro del m®¶todo principal.
+	 - Cuando inicia el programa, la capacidad actual de la cafetera es de 0 mililitros, las variables que controlan la capacidad actual y m√°xima deben declararse dentro del m√©todo principal.
 	 - El tipo de retorno de las funciones implementadas debe ser void.
-	 -  Mostrar constantemente la capacidad actual y capacidad m®¢xima de la cafetera.
+	 -  Mostrar constantemente la capacidad actual y capacidad m√°xima de la cafetera.
